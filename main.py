@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import cv2
-import numpy as np
+import numpy as np 
 import time
 from proccesing import clahe,denoise
 
